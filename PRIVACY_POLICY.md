@@ -1,6 +1,6 @@
 # XMusic Privacy Policy
 
-Last updated: <DATE>
+Last updated: <12/11/2026>
 
 ## 1. Who we are
 XMusic ("the bot", "we") is a Discord music bot operated by <bon>.
