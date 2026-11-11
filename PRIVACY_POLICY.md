@@ -4,7 +4,7 @@ Last updated: <12/11/2026>
 
 ## 1. Who we are
 XMusic ("the bot", "we") is a Discord music bot operated by <bon>.
-Contact: <Discord: tann2.6.02 [382076042203889684]>
+Contact: <Discord: tann2.6.02>
 
 ## 2. What data we handle
 XMusic only responds to slash commands and button interactions. It does **not** read, log or store the content of regular messages, direct messages or member profiles.
@@ -34,7 +34,7 @@ XMusic is intended for users who meet Discord's minimum age requirement. We do n
 We may update this policy. The "Last updated" date shows the latest version.
 
 ## 9. Contact
-<Discord: tann2.6.02 [382076042203889684]>
+<Discord: tann2.6.02>
 
 ---
 

@@ -46,5 +46,5 @@ It only reacts to slash commands and button interactions.
 - [Rules / Nội quy](RULES.md)
 
 ## Contact
-- Discord: <Discord: tann2.6.02 [382076042203889684]>
+- Discord: <Discord: tann2.6.02>
 - Email: <tranthaian2006@gmail.com>

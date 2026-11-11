@@ -11,7 +11,7 @@ By adding or using XMusic you agree to these terms.
 5. **Removal.** We may remove the bot's access from any server or user that violates these terms.
 6. **Liability.** To the extent allowed by law, we are not liable for any damages arising from the use of the bot.
 7. **Changes.** We may update these terms. Continued use means you accept the updated terms.
-8. **Contact.** <Discord: tann2.6.02 [382076042203889684]>
+8. **Contact.** <Discord: tann2.6.02>
 
 ---
 
