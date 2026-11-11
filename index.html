@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Home – XMusic</title><meta name="description" content="XMusic Discord music bot – Home">
+<style>
+:root{--bg:#0f1220;--card:#171b2e;--line:#262b47;--tx:#e8eaf6;--mut:#9aa3c7;--ac:#7c8cff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:860px;margin:0 auto;padding:32px 20px 64px}
+header{display:flex;align-items:center;gap:14px;margin-bottom:8px}
+.logo{width:46px;height:46px;border-radius:12px;background:linear-gradient(135deg,#7c8cff,#c07cff);display:grid;place-items:center;font-size:24px}
+h1{font-size:28px;margin:0}h2{font-size:20px;margin:30px 0 10px;color:#fff;border-left:4px solid var(--ac);padding-left:10px}
+p,li{color:var(--tx)}small,.mut{color:var(--mut)}a{color:var(--ac)}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 22px}
+nav a{padding:6px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--mut);font-size:14px}
+nav a.on,nav a:hover{color:#fff;border-color:var(--ac)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:14px 0}
+table{width:100%;border-collapse:collapse;margin:10px 0}th,td{border:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
+th{background:#1d2240}code{background:#1d2240;padding:2px 7px;border-radius:6px;font-size:.92em}
+.vi{margin-top:30px;padding-top:6px;border-top:1px dashed var(--line)}
+footer{margin-top:40px;color:var(--mut);font-size:14px;border-top:1px solid var(--line);padding-top:16px}
+@media(max-width:600px){h1{font-size:23px}th,td{padding:7px 8px;font-size:14px}}
+</style></head><body><div class="wrap">
+<header><div class="logo">🎵</div><div><h1>XMusic</h1><small>Discord music bot</small></div></header>
+<nav><a href="index.html" class=on>Home</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Service</a><a href="rules.html">Rules / Nội quy</a></nav>
+
+<div class="card"><p>XMusic is a Discord music bot that plays audio in voice channels and can stay in a channel 24/7. It is controlled with slash commands and a button control panel.</p>
+<p class="mut">Tiếng Việt: XMusic là bot nhạc Discord phát nhạc trong voice channel, có chế độ treo 24/7, điều khiển bằng slash command và bảng nút bấm.</p></div>
+<h2>Features</h2><ul><li>Play music from a link or by name (YouTube, Spotify, SoundCloud, TikTok)</li><li>Queue, loop (off / queue / single track), shuffle, volume, audio effects</li><li>Button control panel (<code>/panel</code>)</li><li>24/7 mode (<code>/247</code>) and lofi radio (<code>/lofi</code>)</li><li>Automatic rejoin of the 24/7 channel after a disconnect</li></ul>
+<h2>Commands</h2><table><tr><th>Command</th><th>Description</th></tr>
+<tr><td><code>/play &lt;link or name&gt;</code></td><td>Play a track</td></tr><tr><td><code>/pause</code> · <code>/resume</code></td><td>Pause / resume</td></tr>
+<tr><td><code>/skip</code></td><td>Skip the current track</td></tr><tr><td><code>/stop</code></td><td>Stop and clear the queue</td></tr>
+<tr><td><code>/queue</code></td><td>Show the queue</td></tr><tr><td><code>/nowplaying</code></td><td>Show the current track</td></tr>
+<tr><td><code>/volume &lt;0-100&gt;</code></td><td>Set the volume</td></tr><tr><td><code>/loop</code></td><td>Loop: off / queue / single track</td></tr>
+<tr><td><code>/shuffle</code></td><td>Shuffle the queue</td></tr><tr><td><code>/effect</code></td><td>Toggle an audio effect</td></tr>
+<tr><td><code>/panel</code></td><td>Post the control panel</td></tr><tr><td><code>/lofi</code></td><td>Play lofi radio 24/7</td></tr>
+<tr><td><code>/247</code></td><td>Toggle 24/7 mode in the voice channel</td></tr><tr><td><code>/leave</code></td><td>Leave the voice channel</td></tr></table>
+<h2>Permissions requested</h2><p>View Channels, Send Messages, Embed Links, Attach Files, Read Message History, Use Application Commands, Connect, Speak, Use Voice Activity. XMusic does <b>not</b> request Administrator, Manage Server, Manage Roles, Kick or Ban.</p>
+<h2>Privileged intents</h2><p>XMusic does not use the Message Content, Server Members or Presence intents. It only reacts to slash commands and button interactions.</p>
+<h2>Documents</h2><ul><li><a href="privacy.html">Privacy Policy</a></li><li><a href="terms.html">Terms of Service</a></li><li><a href="rules.html">Rules / Nội quy</a></li></ul>
+
+<footer>© XMusic · operated by bon · Contact: Discord <b>tann2.6.02</b> · <a href="mailto:tranthaian2006@gmail.com">tranthaian2006@gmail.com</a></footer>
+</div></body></html>
